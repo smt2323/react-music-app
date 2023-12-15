@@ -1,0 +1,27 @@
+.track {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.track b {
+    font-size: 15px;
+}
+
+.track p {
+    font-size: 15px;
+}
+
+.info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.preview {
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+}
